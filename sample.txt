@@ -1,0 +1,4 @@
+简体中文
+
+
+cht是Chinese Traditional繁体字（正体中文）的缩写，chs是Chinese Simplified简体中文的缩写，所以cht表示繁体字，chs表示简体字
